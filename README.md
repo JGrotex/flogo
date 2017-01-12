@@ -29,7 +29,8 @@ If you are an Extensions or IoT Solutions developer, read on because it's easy t
 * For extensions developers, visit the docs in this repository to get started with developing your first Flogo activity
 
 ## Roadmap
-Refer to [Flogo Statement of Direction](sod.md) for an overview of the strategic dircetion of the project. You can also monitor [milestones](https://github.com/TIBCOSoftware/flogo/milestones) to see what's coming up. 
+Refer to [Flogo Statement of Direction](sod.md) for an overview of the strategic dircetion of the project. You can also monitor [milestones](https://github.com/TIBCOSoftware/flogo/milestones) to see what's coming up.
+New updates soon !
 
 ## Contributing 
 Contact flogo-oss@tibco.com to learn about contributing to the project. 
